@@ -1,20 +1,58 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gijs-hulsebos/gijs-hulsebos/main/GijsHulsebos.banner.png" alt="Gijs Hulsebos Video Audio Extractor" width="100%" />
+</p>
 
-# Run and deploy your AI Studio app
+<p align="center">
+  <a href="https://gijshulsebos.com">
+    <img src="https://img.shields.io/badge/gijshulsebos.com-121212?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/gijs-hulsebos">
+    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-This contains everything you need to run your app locally.
+# 🔊 Video-Audio Extractor
+### *Clean, Ad-Free & Privacy-Focused Media Processing*
 
-View your app in AI Studio: https://ai.studio/apps/7cd892c4-e136-4cb4-b84b-1588684c2ec0
+Tired of whack, ad-bloated online converters, I built this simple, high-performance utility to extract audio from video files. This is a privacy-first tool: your media is processed locally/server-side without third-party tracking or data harvesting.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🚀 The Solution
+A streamlined Next.js application designed for speed and reliability. No spam, no limits, just clean extraction.
+
+### **Core Features:**
+* **Instant Extraction:** High-fidelity audio extraction from various video formats.
+* **Privacy-First:** No persistent storage of uploaded media.
+* **Clean UX:** A distraction-free interface focused on the task at hand.
+* **Developer Friendly:** Fully open-source and easy to self-host.
+
+---
+
+## 🛠️ Tech Stack
+* **Framework:** [Next.js](https://nextjs.org/) (App Router)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+* **Deployment:** [Vercel](https://vercel.com/)
+* **Components:** [shadcn/ui](https://ui.shadcn.com/)
+
+---
+
+## 🌐 Live Demo
+> [!IMPORTANT]
+> **[🔗 ACCESS THE EXTRACTOR (Live)](https://video-audio-extractor.vercel.app/)**
+> *Status: Deployed on Vercel
+
+---
+
+## 💻 Local Setup
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/gijs-hulsebos/Video-Audio-Extractor.git](https://github.com/gijs-hulsebos/Video-Audio-Extractor.git)
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gijs-hulsebos/gijs-hulsebos/main/readme.md.banner.png" alt="Gijs Hulsebos AI Automation Footer" width="100%" />
+</p>
